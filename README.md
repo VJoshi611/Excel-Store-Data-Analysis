@@ -12,13 +12,13 @@
 - which channel is contributing to the max sales
 - highest selling category ? etc..
 
-  ## Project Steps :
-  - Observing Entities in raw data and going through the data.
-  - Identifying Null values and replacing with appropriate method.
-  - Data Cleaning
-  - Data Processing
-  - Dashboard
-  - Business Insights
+## Project Steps :
+- Observing Entities in raw data and going through the data.
+- Identifying Null values and replacing with appropriate method.
+- Data Cleaning
+- Data Processing
+- Dashboard
+- Business Insights
  
     
 
