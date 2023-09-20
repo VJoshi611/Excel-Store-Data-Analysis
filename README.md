@@ -28,6 +28,6 @@
 
 
 ## Business Insghts :
-- Target Women Customers of age group (30-49 yrs) living in Maharashtra, Karnataka, Uttar Pradesh by sponsiring ads/offers/coupons available on Amazon, Flipkart, Myntra channels.
+- Target Women Customers of age group (30-49 yrs) living in Maharashtra, Karnataka, Uttar Pradesh by sponsoring ads/offers/coupons available on Amazon, Flipkart, Myntra channels.
     
 
