@@ -19,6 +19,15 @@
 - Data Processing
 - Dashboard
 - Business Insights
- 
+
+## Analysis :
+- Women are more likely to buy compared to Men(~65%)
+- Maharashtra, Karnataka, Uttar Pradesh are the top 3 states (~35%)
+- Adult age group(30-49 yrs)  is max contributing (~50%)
+- Amazon, Flipkart, Myntra channels are max contributing (~80%)
+
+
+## Business Insghts :
+- Target Women Customers of age group (30-49 yrs) living in Maharashtra, Karnataka, Uttar Pradesh by sponsiring ads/offers/coupons available on Amazon, Flipkart, Myntra channels.
     
 
