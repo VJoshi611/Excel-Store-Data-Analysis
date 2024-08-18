@@ -1,33 +1,51 @@
-# Store Data Analysis using Ms-Excel
+# Store Data Analysis using MS-Excel
 
-## Objective : Vrinda store wants to create an annual sales report for 2022 so that vrinda can understand their customers and grow more sales in 2023.
+## Table of Contents
 
-## sample questions for Data Analysis :
-- compare the sales and orders using sales chart.
-- which month got the highest sales and orders
-- who purchased more men-women 
-- what are different orders status in 2022
-- list top 10 states contributing to the sales
-- relation between age and gender based on number 
-- which channel is contributing to the max sales
-- highest selling category ? etc..
+1. [Introduction](#introduction)
+2. [Objectives](#objectives)
+3. [Methodology](#methodology)
+4. [Results](#results)
+5. [Conclusion](#conclusion)
+6. [Final Report](#final-report)
+7. [References](#references)
 
-## Project Steps :
-- Observing Entities in raw data and going through the data.
-- Identifying Null values and replacing with appropriate method.
-- Data Cleaning
-- Data Processing
-- Dashboard
-- Business Insights
+## Introduction
 
-## Analysis :
-- Women are more likely to buy compared to Men(~65%)
-- Maharashtra, Karnataka, Uttar Pradesh are the top 3 states (~35%)
-- Adult age group(30-49 yrs)  is max contributing (~50%)
-- Amazon, Flipkart, Myntra channels are max contributing (~80%)
+This project involves analyzing store data collected in Excel spreadsheets. The dataset includes sales transactions, customer details, and product inventory. The primary focus is to understand trends and patterns in the data to support strategic business decisions.
 
+## Objectives
 
-## Business Insghts :
-- Target Women Customers of age group (30-49 yrs) living in Maharashtra, Karnataka, Uttar Pradesh by sponsoring ads/offers/coupons available on Amazon, Flipkart, Myntra channels.
-    
+- Analyze sales data to identify trends and patterns.
+- Examine customer purchase behavior and preferences.
+- Assess product performance and inventory levels.
+- Provide actionable recommendations based on data insights.
 
+## Methodology
+
+1. **Data Collection**: Data was extracted from Excel files containing sales, customer, and product information.
+2. **Data Cleaning**: The data was cleaned and preprocessed to handle missing values and inconsistencies.
+3. **Data Analysis**: Various statistical and analytical methods were applied to identify trends, correlations, and insights.
+4. **Visualization**: Data was visualized using charts and graphs to effectively communicate findings.
+
+## Results
+
+The analysis revealed several key insights:
+- **Sales Trends**: Identified peak sales periods and seasonal variations.
+- **Customer Behavior**: Highlighted purchasing patterns and customer preferences.
+- **Product Performance**: Assessed the performance of different products and inventory levels.
+
+## Conclusion
+
+The project successfully analyzed the store data, providing valuable insights into sales trends, customer behavior, and product performance. The findings can be used to enhance business strategies and optimize operations. Future work could involve more detailed analyses and the integration of additional data sources.
+
+## Final Report
+
+The final report detailing the analysis and findings can be viewed below:
+
+![Final Report](https://github.com/VJoshi611/Excel-Store-Data-Analysis/blob/main/report_final.png)
+
+## References
+
+- [Excel Store Data Analysis Repository](https://github.com/VJoshi611/Excel-Store-Data-Analysis)
+- Any additional sources or references used in the project.
