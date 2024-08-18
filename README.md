@@ -48,4 +48,7 @@ The final report detailing the analysis and findings can be viewed below:
 ## References
 
 - [Excel Store Data Analysis Repository](https://github.com/VJoshi611/Excel-Store-Data-Analysis)
-- Any additional sources or references used in the project.
+- [Microsoft Excel Documentation](https://support.microsoft.com/en-us/excel)
+- [Data Analysis with Excel](https://www.data-analysis-with-excel.com)
+- [Data Visualization Techniques](https://www.data-visualization-techniques.com)
+- [Statistical Analysis Resources](https://www.statistical-analysis-resources.com)
